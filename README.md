@@ -5,11 +5,11 @@ Math game to entertain pet fish.
 Entertain your pet fish by performing a simple math exercise. The math exercise consists of adding one to each of the digits of the string of digits as fast as possible before the timer runs out. For example 2139 becomes 3240. When you get a certain number of points, the pet fish will react by swimming or jumping. Enter numbers by using the number keypad. To start the game press the start button which will reveal the digits and start the timer. The orientation of the fish can also be changed by swiping the image. Restarting the game puts the fish back in its original location and restarts the timer and score. The player can choose between several different types of fish to play with.
 
 ### Layout of Game 
-Start page: can go to about or play (when clicked can go to players page or settings page) 
-About page: instructions for game (back button goes to start page) 
-Settings page: create a character to play with (back button goes to start page) 
-Players page: past saved players (back button goes to start page) 
-Game page: play the game! (Quit button goes to start page, can play again or go back to start page upon ending game) 
+- Start page: can go to about or play (when clicked can go to players page or settings page) 
+- About page: instructions for game (back button goes to start page) 
+- Settings page: create a character to play with (back button goes to start page) 
+- Players page: past saved players (back button goes to start page) 
+- Game page: play the game! (Quit button goes to start page, can play again or go back to start page upon ending game) 
 
 # Development Specifics
 
@@ -80,3 +80,10 @@ Delete button: alert with 2 choices
 (Game page) 
 Quit button: action sheet with 2 choices 
 Game over popup: action sheet with 2 choices
+
+User defaults 
+(Start page) 
+The initial whale image 
+(About page) 
+The top fish image 
+The bottom fish image
