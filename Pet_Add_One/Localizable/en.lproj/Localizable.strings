@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Pet_Add_One
+
+  Created by Jennifer Dong  on 12/4/19.
+  Copyright © 2019 Jennifer Dong . All rights reserved.
+*/
+
+// Start
+"About" = "About";
+"Play" = "Play";
+"Choose Player" = "Choose Player";
+"Existing player" = "Existing player";
+"Create new player" = "Create new player";
+"Cancel" = "Cancel";
+
+// Game
+"Points" = "Points:";
+"Timer" = "Timer:";
+"Start" = "Start";
+"Quit" = "Quit";
+"Are you sure you want to quit?" = "Are you sure you want to quit?";
+"Yes" = "Yes`";
+"Time's up!" = "Time's up!";
+"Play again" = "Play again";
+"Start page" = "Start page";
+
+// Settings
+"Fish Name" = "Fish Name:";
+"Fish Type" = "Fish Type:";
+"Fish" = "Fish";
+"Whale" = "Whale";
+"Blowfish" = "Blowfish";
+"Back" = "Back";
+// TODO: picker view
+
+// Players
+"Players" = "Players";
+"Delete" = "Delete";
+"Warning" = "Warning";
+"Are you sure you want to delete %@? This cannot be undone!" = "Are you sure you want to delete %@? This cannot be undone!"; //string interpolation
+
+// Fish Cell
+"Name" = "Name";
+"Type" = "Type";
+"Score" = "Score";
+
+// About
+"Paragraph" = "Rules: \n\n1. Add one to each of the displayed digits, so 2539 becomes 3640, as many times as you can before the timer runs out \n\n2. Watch your pet fish react to your moves \n\n3. The faster you add, the higher your score and happier your fish";
+
+
+
+

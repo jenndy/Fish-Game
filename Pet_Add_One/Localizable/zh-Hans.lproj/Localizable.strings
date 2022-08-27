@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  Pet_Add_One
+
+  Created by Jennifer Dong  on 12/4/19.
+  Copyright © 2019 Jennifer Dong . All rights reserved.
+*/
+
+// Start
+"About" = "规则";
+"Play" = "玩";
+"Choose Player" = "选择球员";
+"Existing player" = "现有球员";
+"Create new player" = "建立新玩家";
+"Cancel" = "取消";
+
+// Game
+"Points" = "点数:";
+"Timer" = "计时器:";
+"Start" = "开始";
+"Quit" = "退出";
+"Are you sure you want to quit?" = "你确定你要退出吗?";
+"Yes" = "是";
+"Time's up!" = "时间到!";
+"Play again" = "再玩一遍";
+"Start page" = "首页";
+
+// Settings
+"Fish Name" = "鱼名:";
+"Fish Type" = "鱼种类:";
+"Fish" = "鱼";
+"Whale" = "鲸";
+"Blowfish" = "河豚";
+"Back" = "回";
+
+// Players
+"Players" = "玩家们";
+"Delete" = "删除";
+"Warning" = "警告";
+"Are you sure you want to delete %@? This cannot be undone!" = "你确定要删除%@吗？这不能被撤消!"; //string interpolation 
+
+// Fish Cell
+"Name" = "名称";
+"Type" = "类型";
+"Score" = "得分";
+     
+// About
+// TODO: translate 
+"Paragraph" = "规则: \n\n1. 在显示的每个数字上加一个，这样2539就会变成3640，在计时器用完之前要尽可能多地 \n\n2. 注意宠物鱼对自己的动作做出反应 \n\n3. 添加得越快，得分越高，鱼就越快乐";
+

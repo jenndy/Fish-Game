@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "Score: "; ObjectID = "672-vT-J5J"; */
+"672-vT-J5J.text" = "Score: ";
+
+/* Class = "UILabel"; text = "Fish Type: "; ObjectID = "72y-8Y-4Ct"; */
+"72y-8Y-4Ct.text" = "Fish Type: ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "AfG-fA-dEJ"; */
+"AfG-fA-dEJ.normalTitle" = "Back";
+
+/* Class = "UIViewController"; title = "Start"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Cgb-N3-Tu4"; */
+"Cgb-N3-Tu4.normalTitle" = "Delete";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "FTJ-ud-rje"; */
+"FTJ-ud-rje.title" = "About";
+
+/* Class = "UINavigationItem"; title = "Players"; ObjectID = "MJ0-3l-TR0"; */
+"MJ0-3l-TR0.title" = "Players";
+
+/* Class = "UILabel"; text = "Timer:"; ObjectID = "NFy-Tv-GEK"; */
+"NFy-Tv-GEK.text" = "Timer:";
+
+/* Class = "UILabel"; text = "Label           "; ObjectID = "Ppq-NP-Tzt"; */
+"Ppq-NP-Tzt.text" = "Label           ";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "RlM-qv-rcw"; */
+"RlM-qv-rcw.title" = "Settings";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "RsG-It-XtY"; */
+"RsG-It-XtY.text" = "0000";
+
+/* Class = "UILabel"; text = "Label    "; ObjectID = "T43-ny-YcZ"; */
+"T43-ny-YcZ.text" = "Label    ";
+
+/* Class = "UILabel"; text = "Fish Name:"; ObjectID = "TSA-fW-MmE"; */
+"TSA-fW-MmE.text" = "Fish Name:";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "XIp-OH-jXW"; */
+"XIp-OH-jXW.normalTitle" = "About";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ade-tX-4q1"; */
+"ade-tX-4q1.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Quit"; ObjectID = "av8-ur-Ct1"; */
+"av8-ur-Ct1.normalTitle" = "Quit";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "cHB-cx-LnX"; */
+"cHB-cx-LnX.text" = "00:00";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "cnN-s8-EiV"; */
+"cnN-s8-EiV.text" = "Name: ";
+
+/* Class = "UITableViewController"; title = "Players"; ObjectID = "du8-No-xhJ"; */
+"du8-No-xhJ.title" = "Players";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "f9M-MB-HOn"; */
+"f9M-MB-HOn.text" = "Type:";
+
+/* Class = "UILabel"; text = "Rules:   1. Add one to each of the displayed digits, so 2539 becomes 3640, as many times as you can before the timer runs out                                    \n 2. Swipe to submit number \n 3. Watch your pet fish react to your moves \n 4. The faster you add, the higher your score and happier your fish "; ObjectID = "fNA-x1-v4O"; */
+"fNA-x1-v4O.text" = "Rules:   1. Add one to each of the displayed digits, so 2539 becomes 3640, as many times as you can before the timer runs out                                    \n 2. Swipe to submit number \n 3. Watch your pet fish react to your moves \n 4. The faster you add, the higher your score and happier your fish ";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "fQ6-2q-V6S"; */
+"fQ6-2q-V6S.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Label    "; ObjectID = "nkt-f1-DPO"; */
+"nkt-f1-DPO.text" = "Label    ";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "q9M-ne-aMe"; */
+"q9M-ne-aMe.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "qPE-yP-oCk"; */
+"qPE-yP-oCk.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "uDC-Z2-EGw"; */
+"uDC-Z2-EGw.text" = "0000";
+
+/* Class = "UIViewController"; title = "Game"; ObjectID = "vNU-Zq-Ela"; */
+"vNU-Zq-Ela.title" = "Game";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "wWg-5n-F1A"; */
+"wWg-5n-F1A.normalTitle" = "Back";
