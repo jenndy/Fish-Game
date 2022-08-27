@@ -81,7 +81,7 @@ Delete button: alert with 2 choices
 Quit button: action sheet with 2 choices 
 Game over popup: action sheet with 2 choices
 
-User defaults 
+### User defaults 
 (Start page) 
 The initial whale image 
 (About page) 
